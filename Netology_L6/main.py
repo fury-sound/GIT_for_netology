@@ -257,5 +257,3 @@ def count_all_student_grades(student_list, course):
 
 print(count_all_student_grades(student_list, 'Python'))
 print(count_all_lecturer_grades(lecturer_list, 'Python'))
-
-# EOF
