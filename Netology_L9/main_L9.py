@@ -34,7 +34,6 @@ def find_smartest_hero():
                 print('Самый умный:', smartest_hero[0])
                 break
 
-
 # Для запуска задания 1 раскомментировать main()
 # find_smartest_hero()
 
